@@ -1,0 +1,14 @@
+
+		"name"		"ButterFrogs" 
+		"tag"		"ButterFrogs"
+		"flag"		""
+		"logo"		"bf"
+		"players"
+		{
+		"STEAM_0:1:462186870"	"Amost"
+		"STEAM_0:0:512038787"	"P1ksel"
+		"STEAM_0:0:151734094"	"Riki"
+		"STEAM_1:1:67074420"	"Goldyy"
+		"STEAM_0:1:80062003"	"Aureole"
+		"STEAM_0:1:244750335"	"Slayer"
+		}

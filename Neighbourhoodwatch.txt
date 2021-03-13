@@ -1,0 +1,14 @@
+
+		"name"		"Neighbourhood Watch" 
+		"tag"		"Neighbourhood Watch"
+		"flag"		""
+		"logo"		"nw"
+		"players"
+		{
+		"STEAM_0:0:25970272"	"Danny"
+		"STEAM_0:1:76409857"	"Kayle"
+		"STEAM_0:1:531900829"	"HarryDym"
+		"STEAM_0:1:30122483"	"Joe-R"
+		"STEAM_0:0:27937263"	"Protagonist"
+		"STEAM_0:0:85814311"	"Daquaan"
+		}

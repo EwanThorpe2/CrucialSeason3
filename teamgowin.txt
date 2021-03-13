@@ -1,0 +1,13 @@
+
+		"name"		"TeamGoWin" 
+		"tag"		"TeamGoWin"
+		"flag"		""
+		"logo"		"tgw"
+		"players"
+		{
+		"STEAM_0:1:91824061"	"Donty"
+		"STEAM_0:0:78770096"	"MakS"
+		"STEAM_0:1:80735163"	"JoeG"
+		"STEAM_0:1:104940291"	"Kronikk"
+		"STEAM_0:1:52466522"	"Jamie"
+		}

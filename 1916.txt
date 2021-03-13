@@ -1,0 +1,13 @@
+
+		"name"		"1916 Rebels" 
+		"tag"		"1916 Rebels"
+		"flag"		""
+		"logo"		"1916"
+		"players"
+		{
+		"STEAM_0:1:87942791"	"Ewan"
+		"STEAM_0:0:99547947"	".V"
+		"STEAM_0:1:15668334"	"Redd"
+		"STEAM_0:1:55057094"	"Nimai"
+		"STEAM_0:0:90364106"	"Venom"
+		}

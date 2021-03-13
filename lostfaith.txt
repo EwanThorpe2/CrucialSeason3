@@ -1,0 +1,14 @@
+
+		"name"		"Lost Faith" 
+		"tag"		"Lost Faith"
+		"flag"		""
+		"logo"		"lf"
+		"players"
+		{
+		"STEAM_0:0:13690921"	"Padds"
+		"STEAM_0:0:96137384"	"Ginger"
+		"STEAM_0:0:30474031"	"Craig"
+		"STEAM_0:1:1870489"		"4pertur3"
+		"STEAM_0:1:22453771"	"Chester"
+		"STEAM_0:1:88883001"	"FLS"
+		}

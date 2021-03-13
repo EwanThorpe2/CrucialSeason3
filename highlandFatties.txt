@@ -1,0 +1,13 @@
+
+		"name"		"Highland Fatties" 
+		"tag"		"Highland Fatties"
+		"flag"		""
+		"logo"		"thf"
+		"players"
+		{
+		"STEAM_0:0:53756492"	"Meca"
+		"STEAM_0:0:60229035"	"Aqua"
+		"STEAM_0:0:105212701"	"Limits"
+		"STEAM_0:0:58717060"	"Curious GI"
+		"STEAM_0:0:497064"		"Memph"
+		}
