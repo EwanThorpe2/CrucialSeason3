@@ -10,4 +10,5 @@
 		"STEAM_0:1:127717410"	"CCCUUU"
 		"STEAM_0:0:110037171"	"Reaper"
 		"STEAM_0:0:68420506"	"Nixioma"
+		"STEAM_0:0:511507885"	"Native"
 		}
