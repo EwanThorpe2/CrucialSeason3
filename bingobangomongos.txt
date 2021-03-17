@@ -6,7 +6,7 @@
 		"players"
 		{
 		"STEAM_0:0:156614789"	"Gleb"
-		"STEAM_0:0:6030694"		"Karv"
+		"STEAM_0:0:6030694"	"Karv"
 		"STEAM_0:0:107368515"	"Julius"
 		"STEAM_0:1:84673114"	"Shazzam"
 		"STEAM_0:1:100256310"	"Kuzon"
