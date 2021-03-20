@@ -10,5 +10,5 @@
 		"STEAM_0:1:214236177"	 "Euan"
 		"STEAM_0:1:31027202"	 "Cooki3"
 		"STEAM_0:1:17059054"	 "Bizarro"
-    "STEAM_0:1:172432854"  "Sept"
+                "STEAM_0:1:172432854"    "Sept"
 		}
