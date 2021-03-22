@@ -6,7 +6,7 @@
 		"players"
 		{
 		"STEAM_0:1:16497894"	"mK"
-		"STEAM_0:1:440358415"	"Olly"
+		"STEAM_0:0:160397000"	"Denim2k"
 		"STEAM_0:0:51394410"	"Aengul"
 		"STEAM_0:0:116519569"	"Carnage"
 		"STEAM_0:1:193723501"	"Starenzo"
