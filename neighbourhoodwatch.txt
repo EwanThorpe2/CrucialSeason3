@@ -10,5 +10,5 @@
 		"STEAM_0:1:30122483"	 "Joe-R"
 		"STEAM_0:1:531900829"	 "Harry-dym"
 		"STEAM_0:0:27937263"	 "Protagonist"
-    "STEAM_0:1:105480255"  "Swanky"
+    		"STEAM_0:1:105480255"  "Swanky"
 		}
